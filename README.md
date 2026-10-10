@@ -4,7 +4,7 @@ Official Windows installers for [AzerothCharts](https://azerothcharts.com). This
 
 ## Download
 
-[Download AzerothCharts Companion 0.7.3 for Windows 64-bit](https://github.com/Devetik/AzerothCharts-Downloads/releases/download/companion-v0.7.3/AzerothCharts-Setup-0.7.3.exe)
+[Download AzerothCharts Companion 0.7.4 for Windows 64-bit](https://github.com/Devetik/AzerothCharts-Downloads/releases/download/companion-v0.7.4/AzerothCharts-Setup-0.7.4.exe)
 
 ## Get started
 
