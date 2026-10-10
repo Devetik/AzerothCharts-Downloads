@@ -4,14 +4,14 @@ Official Windows installers for [AzerothCharts](https://azerothcharts.com). This
 
 ## Download
 
-[Download AzerothCharts Companion 0.6.1 for Windows 64-bit](https://github.com/Devetik/AzerothCharts-Downloads/releases/download/companion-v0.6.1/AzerothCharts-Setup-0.6.1.exe)
+[Download AzerothCharts Companion 0.7.0 for Windows 64-bit](https://github.com/Devetik/AzerothCharts-Downloads/releases/download/companion-v0.7.0/AzerothCharts-Setup-0.7.0.exe)
 
 ## Get started
 
 1. Close World of Warcraft and install the companion. You can install it over an earlier companion version.
 2. On first launch it looks for World of Warcraft in Program Files (x86) and Program Files. Choose the game version if several are found, or choose your WoW folder manually if needed.
 3. The companion installs AzerothCharts automatically. Windows may request permission for the game folder. No saved-variable file selection is needed.
-4. Connect your AzerothCharts account, start WoW with AzerothCharts enabled, and use `/reload`. The companion detects its first data automatically and downloads available community history immediately, including for Free accounts. Once history is ready, use `/reload` again to load it in WoW.
+4. Connect your AzerothCharts account and wait for Community charts to show Preview ready or Full history ready before entering WoW. Available Forever Beta realms are prepared without a first WoW save. The preview contains up to six observations per item across 24 hours; full 30-day history follows. Files received while already in game still need `/reload` or a later login. Existing installations: close WoW and click Reinstall AzerothCharts to install addon 0.23.14. The website must be updated for the new preview routes.
 
 Existing saves and account settings are preserved. An existing SuperSniper edition is preserved. The installer is not yet publisher-signed.
 
